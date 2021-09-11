@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My ApplicationRoll</string>
+    <string name="RollButton">Rolar Dado</string>
+</resources>
